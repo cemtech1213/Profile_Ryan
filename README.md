@@ -40,14 +40,14 @@
 * 2021-06 至 2022-06，横向项目，中船集团石油钻井平台高精度定位系统，主研，**基于 UWB 的室内定位系统**。
 
 ## 近期代表性论著
-[1] Zhang F, Hong S, Ding Y, et al. Ultra Wideband Based Real-Time Positioning With Cascaded Wireless Clock Synchronization Method[J]. IEEE Internet of Things Journal, 2024.<br/>
-[2] Zhang F, Duan S, Tan J. UWB-based Wireless Clock Synchronization and Real-time Positioning in Smart Parking[J]. IEEE Sensors Journal, 2023.<br/>
-[3] Zhang F, Duan S, Wang L. Route searching based on neural networks and heuristic reinforcement learning[J]. Cognitive neurodynamics, 2017, 11(3): 245-258.<br/>
-[4] Zhang F, Li H, Ding Y, et al. Dilution of precision for time difference of arrival with station deployment[J]. IET Signal Processing, 2021, 15(6): 353-364.<br/>
-[5] Zhang F, Yang L, Liu Y, et al. Design and implementation of real-time localization system (RTLS) based on UWB and TDoA algorithm[J]. Sensors, 2022, 22(12): 4353.<br/>
-[6] Hong S, Zhang F, et al. Reinforcement Learning Approach for SF Allocation in LoRa Network[J]. IEEE Internet of Things Journal, 2023.<br/>
-[7] Liu Y, Zhang F, Ding Y, et al. Sub-messages extraction for industrial control protocol reverse engineering[J]. Computer Communications, 2022, 194: 1-14.<br/>
-[8] Hong S, Zhang F, et al. LPWC: Long preamble wake-up communication protocol for a LoRa network[J]. Internet of Things, 2023, 22: 100787.<br/>
-[9] Tan J, Zhang F, Wu J, et al. Enhancing in-situ updates of quantized memristor neural networks: a Siamese network learning approach[J]. Cognitive Neurodynamics, 2024: 1-13.<br/>
-[10] 张凤运, 段书凯, 王丽丹, 等. 单相 AC-DC 变换电路设计 [J]. 西南大学学报:  自然科学版, 2015 (1)：155-162.<br/>
-[11] 钟宇平, 张凤运, 等.  基于神经网络及强化学习的智能控制系统 [J]. 西南大学学报:  自然 科学版, 2013 (11)：172-179.<br/>
+[1] **Zhang F**, Hong S, Ding Y, et al. Ultra Wideband Based Real-Time Positioning With Cascaded Wireless Clock Synchronization Method[J]. IEEE Internet of Things Journal, 2024.<br/>
+[2] **Zhang F**, Duan S, Tan J. UWB-based Wireless Clock Synchronization and Real-time Positioning in Smart Parking[J]. IEEE Sensors Journal, 2023.<br/>
+[3] **Zhang F**, Duan S, Wang L. Route searching based on neural networks and heuristic reinforcement learning[J]. Cognitive neurodynamics, 2017, 11(3): 245-258.<br/>
+[4] **Zhang F**, Li H, Ding Y, et al. Dilution of precision for time difference of arrival with station deployment[J]. IET Signal Processing, 2021, 15(6): 353-364.<br/>
+[5] **Zhang F**, Yang L, Liu Y, et al. Design and implementation of real-time localization system (RTLS) based on UWB and TDoA algorithm[J]. Sensors, 2022, 22(12): 4353.<br/>
+[6] Hong S, **Zhang F**, et al. Reinforcement Learning Approach for SF Allocation in LoRa Network[J]. IEEE Internet of Things Journal, 2023.<br/>
+[7] Liu Y, **Zhang F**, Ding Y, et al. Sub-messages extraction for industrial control protocol reverse engineering[J]. Computer Communications, 2022, 194: 1-14.<br/>
+[8] Hong S, **Zhang F**, et al. LPWC: Long preamble wake-up communication protocol for a LoRa network[J]. Internet of Things, 2023, 22: 100787.<br/>
+[9] Tan J, **Zhang F**, Wu J, et al. Enhancing in-situ updates of quantized memristor neural networks: a Siamese network learning approach[J]. Cognitive Neurodynamics, 2024: 1-13.<br/>
+[10] **张凤运**, 段书凯, 王丽丹, 等. 单相 AC-DC 变换电路设计 [J]. 西南大学学报:  自然科学版, 2015 (1)：155-162.<br/>
+[11] 钟宇平, **张凤运**, 等.  基于神经网络及强化学习的智能控制系统 [J]. 西南大学学报:  自然科学版, 2013 (11)：172-179.<br/>
