@@ -1,5 +1,5 @@
 # 张凤运简历
-主要研究领域包括人工智能、室内定位、机器人与智能系统、无线传感网络和工业物联网等。近年来在IEEE Internet of Things Journal、IEEE Sensors Journal、Cognitive Neurodynamics和Computer Communications等SCI期刊发表多篇学术论文，博士和硕士期间曾参与国家自然科学基金面上项目和国家自然科学基金重大研究计划项目，曾主持南方科技大学研究生创新实践基金项目和西南大学中央高校基本科研业务费专项项目。<br/>
+主要研究领域包括人工智能、室内定位、机器人与智能系统、无线传感网络和工业物联网等。近年来在IEEE Internet of Things Journal、IEEE Sensors Journal、Cognitive Neurodynamics和Computer Communications等SCI期刊发表多篇学术论文，博士和硕士期间曾参与国家自然科学基金面上项目和国家自然科学基金重大研究计划项目，目前在研主持重庆市自然科学基金面上项目和西南大学中央高校基本科研业务费专项项目，在研参与国家自然科学基金面上项目和重庆市自然科学基金面上项目，曾主持南方科技大学研究生创新实践基金项目和西南大学中央高校基本科研业务费专项项目。<br/>
 
 ## 教育经历
 * 2019-09 至 2023-06，南方科技大学，力学（智能制造），博士
