@@ -13,7 +13,7 @@
 * 2017-08 至 2018-05，宇龙计算机通信科技（深圳）有限公司，AI工程师
 
 ## 学术兼职与社会服务
-* SCI期刊审稿人（IEEE Internet of Things Journal、IEEE Sensors Journal、Knowledge-Based Systems、IET Signal Processin、Human-centric Computing and Information Sciences和Sensors）
+* SCI期刊审稿人（IEEE Internet of Things Journal、IEEE Sensors Journal、Knowledge-Based Systems、Scientific Reports、IET Signal Processin、Human-centric Computing and Information Sciences和Sensors）
 * 国际音频工程学会会员（Audio Engineering Society, AES）
 * 电气电子工程师学会会员（IEEE Member）
 
@@ -30,7 +30,7 @@
 * 杨双华；张凤运；丁宇龙等：一种基于 UWB 和 TDoA 的无线时钟同步方法及装置，中国，CN202110784237.3.
 
 ## 主持与参研项目
-* 2024-07 至 2026-06，重庆市科技局，重庆市自然科学基金面上项目，主持，**李群和李代数与因子图优化在多传感器融合定位中的应用研究**。
+* 2024-07 至 2026-06，重庆市，重庆市自然科学基金面上项目，主持，**李群和李代数与因子图优化在多传感器融合定位中的应用研究**。
 * 2024-05 至 2027-04，西南大学，中央高校基本科研业务费专项项目，主持，**基于多传感器融合的实时定位方法研究**。
 * 2020-05 至 2021-05，南方科技大学，研究生创新实践基金项目，主持，**基于 UWB 的室内精准定位系统关键技术研究**。
 * 2016-01 至 2016-12，西南大学，中央高校基本科研业务费专项项目，主持，**基于多模感知的户外移动导盲系统关键技术研究**。
