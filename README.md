@@ -13,7 +13,7 @@
 * 2017-08 至 2018-05，宇龙计算机通信科技（深圳）有限公司，AI工程师
 
 ## 学术兼职与社会服务
-* SCI期刊审稿人（IEEE Internet of Things Journal、IEEE Sensors Journal、Knowledge-Based Systems、Scientific Reports、IET Signal Processin、Human-centric Computing and Information Sciences和Sensors）
+* SCI期刊审稿人（IEEE Internet of Things Journal、IEEE Transactions on Consumer Electronics、IEEE Sensors Journal、Knowledge-Based Systems、Scientific Reports、IET Signal Processing、Human-centric Computing and Information Sciences和Sensors）
 * 国际音频工程学会会员（Audio Engineering Society, AES）
 * 电气电子工程师学会会员（IEEE Member）
 
